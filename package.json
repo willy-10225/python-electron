@@ -1,0 +1,15 @@
+{
+  "name": "python-electron",
+  "version": "1.0.0",
+  "description": "​\t\tPython做界面开发要么繁琐要么太丑，同时Python客户端开发人员又是非常稀少的。而WEB前端工程师一抓一大把，同时WEB前端所开发出来的界面及交互效果都是非常美观的，同时有的软件可能客户端也需要，WEB端也需要，甚至移动端也需要，在要求美观的同时，有没有一个解决方案就能适应所有平台的呢？",
+  "main": "main.js",
+  "dependencies": {
+    "thrift": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC"
+}
